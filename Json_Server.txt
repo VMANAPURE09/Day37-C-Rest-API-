@@ -1,0 +1,20 @@
+RInstalling JSON Server RG:-
+
+--npm install -g json-server--
+
+RCheck JSON Server version RG:-
+
+--json-server -v --
+
+RStep 1: Create PracticeEmpDB.json file.
+
+   touch PracticeEmpDB.json
+   cat PracticeEmpDB.json
+   nano PracticeEmpDB.json
+   cat PracticeEmpDB.json
+
+RStep 2: Run JSON server.This will create REST API for ADDDB
+-- json-server--watch PracticeEmpDB.json --
+
+Rstep 3: Get all Entries using curl command
+-- curl -X GET -H "Content-Type:application/json" "http://localHost:4000/Addressbook/list" --
