@@ -19,6 +19,21 @@
       "id": 4,
       "name": "Lesa",
       "salary": "2000"
+    },
+    {
+      "id": 5,
+      "name": "Pankaj",
+      "salary": "2000"
+    },
+	  {
+      "id": 6,
+      "name": "Vijay",
+      "salary": "150"
+    },
+    {
+      "id": 7,
+      "name": "Sana",
+      "salary": "350"
     }
   ]
 }
