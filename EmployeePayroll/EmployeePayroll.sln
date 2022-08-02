@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeePayroll", "EmployeePayroll\EmployeePayroll.csproj", "{AB8F58AB-B1A9-48BC-AAA9-478810D1DDB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestAPI", "RestAPI\RestAPI.csproj", "{59EBA7EB-844A-4B73-AF81-16D4C5600A14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB8F58AB-B1A9-48BC-AAA9-478810D1DDB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB8F58AB-B1A9-48BC-AAA9-478810D1DDB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB8F58AB-B1A9-48BC-AAA9-478810D1DDB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB8F58AB-B1A9-48BC-AAA9-478810D1DDB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59EBA7EB-844A-4B73-AF81-16D4C5600A14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59EBA7EB-844A-4B73-AF81-16D4C5600A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59EBA7EB-844A-4B73-AF81-16D4C5600A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59EBA7EB-844A-4B73-AF81-16D4C5600A14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B798C023-46C6-4A9A-A7FE-7ACB8E703D62}
+	EndGlobalSection
+EndGlobal
